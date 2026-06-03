@@ -1,30 +1,39 @@
-## Maharani (Rani Wu)
-
-🌱 I’m currently learning Backend Development using Go and Gin Framework
-👉 Connect with me to talk about *Java* and *Go*
-<br>
-
-## 🛠️ Languages and Tools
-
-<br>
+<h1 align="center">Hi, I'm Maharani Dewi Wulansari</h1>
+<h3 align="center">Backend learner building with Go, Gin, Java, and PostgreSQL</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,go,postgres,python,swift,matlab" />
-  <img src="https://skillicons.dev/icons?i=html,css,git,postman" />
-</p>
-
-<hr>
-
-<div align="center">
-  <a href="maharanidewiwulansari@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <a href="mailto:maharanidewiwulansari@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
   </a>
   <a href="https://linkedin.com/in/maharanidewiw" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://medium.com/@raniwu" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
-</div>
+</p>
 
-<hr>
+---
+
+### About Me
+
+- Currently learning backend development with Go and Gin.
+- Interested in backend engineering, APIs, databases, and clean service design.
+- Happy to talk about Java, Go, PostgreSQL, and developer learning journeys.
+
+### Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,go,postgres,python,swift,matlab" alt="Java, Go, PostgreSQL, Python, Swift, MATLAB" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=html,css,git,postman" alt="HTML, CSS, Git, Postman" />
+</p>
+
+### GitHub Metrics
+
+<p align="center">
+  <img
+    src="https://metrics.lecoq.io/maharanidw?template=classic&amp;base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&amp;isocalendar=1&amp;languages=1&amp;achievements=1&amp;languages.limit=8&amp;languages.colors=github&amp;achievements.threshold=C&amp;achievements.secrets=true&amp;config.timezone=Asia%2FBangkok"
+    alt="Maharani's GitHub metrics"
+  />
+</p>
