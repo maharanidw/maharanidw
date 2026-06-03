@@ -42,6 +42,8 @@ jobs:
           base: ""
           plugin_habits: yes
           plugin_habits_from: 100
+          plugin_habits_skipped: |
+            maharanidw/maharanidw
           plugin_habits_days: 14
           plugin_habits_facts: no
           plugin_habits_charts: yes
