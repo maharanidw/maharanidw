@@ -16,19 +16,18 @@
 </div>
 
 ---
+### GitHub Metrics
+
+<p align="center">
+  <img
+    src="./github-metrics.svg"
+    alt="Maharani's GitHub metrics"
+  />
+</p>
 
 ### About
 
 I am learning backend development by building APIs, exploring service design, and getting more comfortable with databases and server-side workflows. I like understanding how things work under the hood, then turning that into small, practical projects.
-
-### Current Focus
-
-| Area | What I am practicing |
-| --- | --- |
-| Backend | Go, Gin, REST APIs, service structure |
-| Database | PostgreSQL, query design, schema modeling |
-| Fundamentals | Java, data structures, problem solving |
-| Frontend support | HTML, CSS, TypeScript, Tailwind, Next.js |
 
 ### Tech Stack
 
@@ -38,14 +37,15 @@ I am learning backend development by building APIs, exploring service design, an
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nextjs,tailwind,git,postman" alt="HTML, CSS, JavaScript, TypeScript, Next.js, Tailwind, Git, Postman" />
 </p>
 
-### GitHub Metrics
 
-<p align="center">
-  <img
-    src="./github-metrics.svg"
-    alt="Maharani's GitHub metrics"
-  />
-</p>
+### Current Focus
+
+| Area | What I am practicing |
+| --- | --- |
+| Backend | Go, Gin, REST APIs, service structure |
+| Database | PostgreSQL, query design, schema modeling |
+| Fundamentals | Java, data structures, problem solving |
+| Frontend support | HTML, CSS, TypeScript, Tailwind, Next.js |
 
 ### Connect
 
