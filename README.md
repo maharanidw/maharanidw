@@ -47,15 +47,6 @@ I am learning backend development by building APIs, exploring service design, an
   />
 </p>
 
-### Coding Habits
-
-<p align="center">
-  <img
-    src="./github-habits.svg"
-    alt="Maharani's recent coding habits"
-  />
-</p>
-
 ### Connect
 
 I am always happy to talk about backend learning, Java, Go, PostgreSQL, and building better developer habits.

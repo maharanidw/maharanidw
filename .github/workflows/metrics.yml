@@ -30,24 +30,3 @@ jobs:
           plugin_languages_limit: 10
           plugin_languages_colors: github
           config_timezone: Asia/Bangkok
-
-      - name: Generate coding habits
-        uses: lowlighter/metrics@latest
-        with:
-          # Keep habits isolated because this plugin can fail on malformed push events.
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: maharanidw
-          filename: github-habits.svg
-          template: classic
-          base: ""
-          plugin_habits: yes
-          plugin_habits_from: 100
-          plugin_habits_skipped: |
-            maharanidw/maharanidw
-          plugin_habits_days: 14
-          plugin_habits_facts: no
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_trim: yes
-          plugin_habits_languages_limit: 8
-          config_timezone: Asia/Bangkok
