@@ -33,7 +33,7 @@
 
 <p align="center">
   <img
-    src="https://metrics.lecoq.io/maharanidw?template=classic&amp;base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&amp;isocalendar=1&amp;languages=1&amp;achievements=1&amp;languages.limit=8&amp;languages.colors=github&amp;achievements.threshold=C&amp;achievements.secrets=true&amp;config.timezone=Asia%2FBangkok"
+    src="./github-metrics.svg"
     alt="Maharani's GitHub metrics"
   />
 </p>
