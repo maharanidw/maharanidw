@@ -24,9 +24,9 @@
 ### Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,go,postgres,python,swift,matlab" alt="Java, Go, PostgreSQL, Python, Swift, MATLAB" />
+  <img src="https://skillicons.dev/icons?i=java,go,postgres,python,swift,kotlin,matlab" alt="Java, Go, PostgreSQL, Python, Swift,MATLAB" />
   <br />
-  <img src="https://skillicons.dev/icons?i=html,css,git,postman" alt="HTML, CSS, Git, Postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,nextjs,typescript,tailwind,git,postman" alt="HTML, CSS, Typescript, Tailwind, Git, Postman" />
 </p>
 
 ### GitHub Metrics
